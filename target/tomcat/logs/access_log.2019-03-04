@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:10:56:33 +0800] "GET /search.html?keyword=MagicBook HTTP/1.1" 200 24741 http-bio-8085-exec-1 130651
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:10:56:42 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-3 196
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:11:32:50 +0800] "GET /search.html?keyword=MagicBook HTTP/1.1" 200 24741 http-bio-8085-exec-5 21504
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:11:32:54 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-6 263
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:14:03:21 +0800] "GET /search.html?keyword=MagicBook HTTP/1.1" 200 24741 http-bio-8085-exec-9 34069
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:15:43:50 +0800] "GET /search.html?keyword=MagicBook HTTP/1.1" 200 24741 http-bio-8085-exec-2 8538
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:15:43:57 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-2 1018
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:15:44:41 +0800] "GET /html/web/_public/_ajaxStaticMenu.html?v20140430 HTTP/1.1" 404 949 http-bio-8085-exec-5 1545
+0:0:0:0:0:0:0:1 - - [04/Mar/2019:16:01:49 +0800] "GET /html/web/_public/_ajaxStaticMenu.html?v20140430 HTTP/1.1" 404 949 http-bio-8085-exec-7 19
